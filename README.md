@@ -1,6 +1,8 @@
 #	**About receipe-application-generator-react**
 
 This is an other example with API calls, a recipe generator on click from 'https://www.edamam.com/'
+
+
 In this application I creating a query and append to the API to fetch recipes
 
 
